@@ -86,7 +86,7 @@ async def start():
     bind_address = "0.0.0.0"
     await web.TCPSite(app, bind_address, Var.PORT).start()
     await restart_bots()
-    print("Bot Started Powered By @VJ_Botz")
+    print("Bot Started Powered By @PandaWep")
     await idle()
 
 
