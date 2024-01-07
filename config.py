@@ -48,6 +48,8 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "FileXPandaWep_bot") # your bot usern
 PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "90000000000000000000000000")) # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "5400000000000000000000000000")) # Time in Seconds
 
 
 # Channel Information
