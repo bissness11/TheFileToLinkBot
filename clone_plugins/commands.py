@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg -@PandaWep
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -27,7 +27,7 @@ mongo_db = mongo_client["cloned_vjbotz"]
 
 logger = logging.getLogger(__name__)
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg -@PandaWep
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -42,7 +42,7 @@ def get_size(size):
         size /= 1024.0
     return "%.2f %s" % (size, units[i])
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg -@PandaWep
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -68,7 +68,7 @@ async def start(client, message):
         )
         return
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg -@PandaWep
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
     
