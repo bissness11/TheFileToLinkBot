@@ -2,7 +2,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {}, Save Your File Before 30 Minute Joine Now For Get Free Movie , Wepseries , Anime , Cartoon , Books , Free Course - [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Pandawep)</b>"""
+    START_TXT = """<b>ʜELLO {},ɪ ᴀᴍ {}, ʜᴀʏ ꜱᴀᴠᴇ ʏᴏᴜʀ ꜰɪʟᴇ ʙᴇꜰᴏʀᴇ 10 ᴍɪɴᴜᴛᴇꜱ!! ᴀɴᴅ ᴊᴏɪɴᴇ ᴏᴜʀ ᴄʜᴀɴɴᴀʟ ᴏʀ ɢᴇᴛ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ 🎥, ᴡᴇʙ ꜱᴇʀɪᴇꜱ 📺, ᴀɴɪᴍᴇ 🎌, ᴄᴀʀᴛᴏᴏɴꜱ 🎨, ʙᴏᴏᴋꜱ 📚, ꜰʀᴇᴇ ᴄᴏᴜʀꜱᴇꜱ 📖! ʟɪᴍɪᴛᴇᴅ ᴛɪᴍᴇ ᴏꜰꜰᴇʀ! ᴅᴏɴ'ᴛ ᴍɪꜱꜱ ᴏᴜᴛ! [𝙈𝙮 𝘾𝙝𝙖𝙣𝙣𝙖𝙡](https://t.me/Pandawep)</b>"""
 
 
 
@@ -31,19 +31,19 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
 
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
-
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
-
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
-
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://pandawep.in>PandaWep</a>
-
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/PandaWepChat>𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
-
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/pandawep>𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+    ABOUT_TXT = """<b>
+    ╭━━━━❰❤️VIP BOTS❤️❱━➣
+║   
+┣⪼<a href="https://t.me/FileToUrlX_Bot">⭐️ File To Url ⭐️</a>
+║
+┣⪼<a href="https://t.me/AllSaveBot_bot">🔽 All Save 🔽</a>
+║
+┣⪼<a href="https://t.me/FileRenameXBot_bot">📝 File Rename 📝</a>
+║
+┣⪼<a href="https://t.me/PandaFilter_bot">🎬 PandaFilter 🎬</a>
+║
+╰━━━━━━━━━━━━━━━➣
+  </b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
@@ -70,23 +70,28 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
 
 
-    HELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ ☺️
-
-🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
-
-🔻 /batch - sᴇɴᴅ ғɪʀsᴛ ʟɪɴᴋ ᴏғ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛ ᴛʜᴇɴ ʟᴀsᴛ ᴘᴏsᴛ ʟɪɴᴋ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch https://t.me/xyz/1 https://t.me/xyz/6
-
-🔻 /base_site - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ᴅᴏᴍᴀɪɴ 
-ᴇx - /base_site ʏᴏᴜʀᴅᴏᴍᴀɪɴ.ᴄᴏᴍ
-
-🔻 /api - sᴇᴛ ʏᴏᴜʀ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴀᴘɪ 
-ᴇx - /api ʙᴀᴏᴡɢᴡᴋʟᴀᴀʙᴀᴋʟ
-
-🔻 /deletecloned - ᴜsᴇ ᴛʜɪs ғᴏʀ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄʟᴏɴᴇ ʙᴏᴛ 
-ᴇx - /deletecloned ʏᴏᴜʀʙᴏᴛᴛᴏᴋᴇɴ
-
-🔻 /broadcast - ʀᴇᴘʟʏ ᴛᴏ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ (ʙᴏᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</b>"""
+    HELP_TXT = """    ╭━━━━❰❤️All Channal❤️❱━➣
+║
+┣⪼<a href="https://t.me/PandaWep">😎 Main Channel 😎</a>
+║
+┣⪼<a href="https://t.me/MoviePandaWep">🎥 Movie Channel 🎥</a>
+║
+┣⪼<a href="https://t.me/PandaMovieREQ">🎬 Movie Group 🎬</a>
+║
+┣⪼<a href="https://t.me/AnimePandaWep">🉐 Hindi Anime 🉐</a>
+║
+┣⪼<a href="https://t.me/CTPandaWep">👾 Cartoon 👾</a>
+║
+┣⪼<a href="https://t.me/WebSerisePandaWep">🎞️ Webseries 🎞️</a>
+║
+┣⪼<a href="https://t.me/BooksPandaWep">📚 Books And Free Course 📚</a>
+║
+┣⪼<a href="https://t.me/ApkAshuModKing24">📱 Mod Apps 📱</a>
+║
+┣⪼<a href="https://t.me/MarvelXDcAll">🦸‍♂️ Marvel & Dc All 🦸‍♀️</a>
+║
+╰━━━━━━━━━━━━━━━➣
+</b>"""
 
 
 
